@@ -10,3 +10,6 @@ access local sdcard
 
 [/data/local/tmp] (file:///data/local/tmp)  
 
+[百度](https://www.baidu.com)
+
+[csdn](https://csdn.net)
